@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread CMakeFiles/lab3.dir/main.c.o CMakeFiles/lab3.dir/Server/server.c.o CMakeFiles/lab3.dir/Client/client.c.o CMakeFiles/lab3.dir/Server/config_worker.c.o -o lab3  -lcurl 
